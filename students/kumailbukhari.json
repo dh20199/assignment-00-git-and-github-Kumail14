@@ -1,0 +1,14 @@
+{
+  "firstName": "Kumail",
+  "lastName": "Bukhari",
+  "nickName": "Arrow",
+  "privateName": false,
+  "picture": "Kumail.jpeg",
+  "privatePicture": false,
+  "email": "kumail.bukhari@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "kumailbukhari",
+  "privateGithub": false,
+  "superpower" : "Becoming Invinsible",
+  "academicinterests": "Digital Humanities and Political History"
+}
